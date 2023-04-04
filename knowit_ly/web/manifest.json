@@ -1,0 +1,35 @@
+{
+    "name": "knowit_ly",
+    "short_name": "knowit_ly",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "KnowIt is an educational and entertaining app that provides valuable sexual health information through a fun puzzle game. It is designed to make learning about sexual health topics accessible and enjoyable for users.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
