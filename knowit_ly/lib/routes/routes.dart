@@ -27,6 +27,12 @@ final routerProvider = Provider<GoRouter>(
           path: profilePath,
           builder: (context, state) => const KnowItProfile(),
         ),
+
+        //* tips page
+        GoRoute(
+          path: tipsPath,
+          builder: (context, state) => const KnowItTips(),
+        ),
       ],
 
       // redirect: (_, state) {

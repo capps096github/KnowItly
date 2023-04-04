@@ -8,12 +8,31 @@ class KnowItTips extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     //
-    return ListView(
-      children: [
-        const VerticalSpace(of: spacing4),
-        ...srhInfoList.map((srhInfo) => TipTile(srhInfo: srhInfo)),
-        const VerticalSpace(of: spacing32),
-      ],
+    return Scaffold(
+      appBar: AppBar(
+        leading: BackButton(
+          color: knowItWhite,
+          onPressed: () {
+            // go back to home
+            context.go(homePath);
+          },
+        ),
+        title: const Text(
+          "KnowIt.ly Tips",
+          style: TextStyle(
+            fontSize: 22.5,
+            color: knowItWhite,
+            fontWeight: FontWeight.bold,
+          ),
+        ),
+      ),
+      body: ListView(
+        children: [
+          const VerticalSpace(of: spacing4),
+          ...srhInfoList.map((srhInfo) => TipTile(srhInfo: srhInfo)),
+          const VerticalSpace(of: spacing32),
+        ],
+      ),
     );
   }
 }

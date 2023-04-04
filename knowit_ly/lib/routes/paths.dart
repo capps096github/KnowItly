@@ -14,3 +14,6 @@ const String puzzlePath = '/puzzle';
 
 // profile
 const String profilePath = '/profile';
+
+// tips
+const String tipsPath = '/tips';

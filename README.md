@@ -1,20 +1,5 @@
 # Welcome to KnowIt.ly(KnowIt) - The Healthy Game
 
-KnowIt.ly (KnowIt) is an educational and entertaining app that provides valuable sexual health information through a fun puzzle game. It is designed to make learning about sexual health topics accessible and enjoyable for users.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
 ## Introduction Overview (TL: DR)
 
 KnowIt.ly(KnowIt) is a one-of-a-kind innovative educational app that provides users with valuable sexual health information through a fun and engaging puzzle game aspect that can boost mental wellness. By playing the game, users can improve their cognitive abilities and reduce stress while also learning important information on sexual health. This unique combination makes KnowIt.ly(KnowIt) a valuable tool for both educating and improving one's overall health and well-being. It is designed to make learning about sexual health topics accessible and enjoyable for everyone. In addition to the puzzle game, KnowIt.ly(KnowIt) also features a section with job site links, providing users with job opportunities and on-demand tips about sexual health.
@@ -24,40 +9,40 @@ KnowIt.ly(KnowIt) is a unique way to learn about sexual health, boost mental wel
 
 The app starts with a wheel-spinning feature that randomly selects a topic from a list of available sexual health information. Once the topic is selected, users can proceed to play the puzzle game. Upon completion, they will be presented with the corresponding sexual health information, in a comprehensive, up-to-date, and presented in easy-to-understand format encouraging them to play more and learn more.
 
-## Trying KnowIt.ly(KnowIt) for the First Time
+## Getting Started
 
 Download and install the KnowIt.ly(KnowIt) App from the Google Play Store via <https://KnowIt.ly(knowit)game.page.link/play> and launch it.
 
 ## Features
 
 1. Spinning the Wheel
-   The wheel-spinning feature is the first step in the KnowIt.ly(KnowIt) app.
-   Users are required to spin the wheel to select a topic from the available list of sexual health information.
-   The wheel is designed to randomly choose one of the topics, ensuring that no two games will be the same.
-   Once a topic is selected, users can then proceed to the puzzle game.
+The wheel-spinning feature is the first step in the KnowIt.ly(KnowIt) app.
+Users are required to spin the wheel to select a topic from the available list of sexual health information.
+The wheel is designed to randomly choose one of the topics, ensuring that no two games will be the same.
+Once a topic is selected, users can then proceed to the puzzle game.
 
 2. Puzzle Game
-   The puzzle game is an engaging and entertaining way for users to learn about sexual health.
-   It is designed to be both challenging and fun and will keep users engaged for a short time.
-   Once the puzzle is completed, users will be presented with information about the topic they selected from the wheel-spinning feature.
-   The game is designed to be played multiple times, allowing users to learn about different sexual health topics.
+The puzzle game is an engaging and entertaining way for users to learn about sexual health.
+It is designed to be both challenging and fun and will keep users engaged for a short time.
+Once the puzzle is completed, users will be presented with information about the topic they selected from the wheel-spinning feature.
+The game is designed to be played multiple times, allowing users to learn about different sexual health topics.
 
 3. Sexual Health Information
-   The sexual health information provided in the KnowIt.ly(KnowIt) app is comprehensive and up-to-date.
-   It is divided into different topics, including contraception, sexually transmitted infections (STIs), and safe sex practices.
-   Each topic is presented in an easy-to-understand format, and users can read through the information at their own pace.
-   The information is intended to educate and inform users about important sexual health topics.
+The sexual health information provided in the KnowIt.ly(KnowIt) app is comprehensive and up-to-date.
+It is divided into different topics, including contraception, sexually transmitted infections (STIs), and safe sex practices.
+Each topic is presented in an easy-to-understand format, and users can read through the information at their own pace.
+The information is intended to educate and inform users about important sexual health topics.
 
 4. Job Site Links
-   KnowIt.ly(KnowIt) also includes a section with job site links to help users find work and improve their financial stability.
-   The links provided in the app are carefully selected to provide users with a range of job-finding resources.
-   This feature is designed to support users in their job search and career development.
+KnowIt.ly(KnowIt) also includes a section with job site links to help users find work and improve their financial stability.
+The links provided in the app are carefully selected to provide users with a range of job-finding resources.
+This feature is designed to support users in their job search and career development.
 
 5. On-demand Tips
-   The KnowIt.ly(KnowIt) app also includes on-demand tips about sexual health.
-   These tips are designed to be quick and easy to read and will provide users with additional information about a range of topics related to sexual health.
-   The tips are updated regularly to ensure that users are receiving the most up-to-date information.
-   The on-demand tips are intended to support and supplement the information provided in the puzzle game and sexual health section.
+The KnowIt.ly(KnowIt) app also includes on-demand tips about sexual health.
+These tips are designed to be quick and easy to read and will provide users with additional information about a range of topics related to sexual health.
+The tips are updated regularly to ensure that users are receiving the most up-to-date information.
+The on-demand tips are intended to support and supplement the information provided in the puzzle game and sexual health section.
 
 ## How to Play
 
